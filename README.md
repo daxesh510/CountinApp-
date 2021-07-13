@@ -1,2 +1,2 @@
-# CountinApp-
+# CountingApp-
 Assignment 2
